@@ -1,3 +1,5 @@
+⚠️ **DEPRECATED** since [`vinly-fs`](https://github.com/gulpjs/vinyl-fs) already supports symlinks.
+
 # gulp-symdest
 
 Like gulp.dest, but handles symlinks.
