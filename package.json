@@ -1,6 +1,6 @@
 {
   "name": "gulp-symdest",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Like gulp.dest, but handles symlinks",
   "main": "index.js",
   "scripts": {
