@@ -28,7 +28,7 @@
     "vinyl-fs": "^3.0.3"
   },
   "devDependencies": {
-    "mocha": "^9.2.2",
+    "mocha": "^11.1.0",
     "tmp": "0.0.28",
     "vinyl": "^1.1.0"
   }
